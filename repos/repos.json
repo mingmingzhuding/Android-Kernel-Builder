@@ -4,7 +4,7 @@
     "name": "Pixel3-KernelSU",
     "repo": "https://github.com/mingmingzhuding/Pixel3-KernelSU",
     "branch": "main",
-    "device": "blueline",
+    "device": "bluecross",
     "defconfig": "b1c1_defconfig"
   },
   "withKernelSU": true,
