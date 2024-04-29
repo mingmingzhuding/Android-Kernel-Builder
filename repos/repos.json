@@ -1,11 +1,11 @@
 [
 {
   "kernelSource": {
-    "name": "KernelSU-GTNeo_Dimensity_1200_Series",
-    "repo": "https://github.com/nishant6342/kernel_realme_RMX3031",
-    "branch": "T-Backup",
-    "device": "cupida",
-    "defconfig": "cupida_defconfig"
+    "name": "Pixel3-KernelSU",
+    "repo": "https://github.com/mingmingzhuding/Pixel3-KernelSU",
+    "branch": "main",
+    "device": "blueline",
+    "defconfig": "b1c1_defconfig"
   },
   "withKernelSU": true,
   "toolchains": [
